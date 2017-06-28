@@ -1,0 +1,1 @@
+# GitHub for public documents repository
